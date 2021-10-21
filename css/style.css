@@ -1,0 +1,94 @@
+body {
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+    font-size: 81.25%;
+  }
+  
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: end;
+  }
+
+.navbar li {
+    display: inline
+  }
+
+.navbar a {
+    text-decoration: none;
+    color: #4285f4;
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: 10px;
+  }
+  
+.navbar a:hover {
+    text-decoration: underline;
+  }
+
+.Logo {
+    display: block;
+    height: 92px;
+    width: 272px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 108px;
+    margin-bottom: 38px;
+  }
+
+#inputWrapper {
+    display: flex;
+    justify-content: center;
+  }
+  
+#input {
+    background-color: white;
+    border: none;
+    width: 40%;
+    height: 44px;
+    border-radius: 22px;
+    font-family: inherit;
+    font-weight: 500;
+    font-size: 16px;
+    color: grey;
+    outline: none;
+    padding-inline-end:  24px;
+    padding-inline-start: 52px;
+    position: relative;
+    box-shadow: 0 1px 6px 0 rgba(32, 33, 36, .28);
+    background-image: url(../image/search.svg);
+    background-size: 24px 24px;
+    background-repeat: no-repeat;
+    background-position-x: 14px;
+    background-position-y: 10px;
+  }
+
+  #input::placeholder {
+    color: grey;
+  }
+
+#Buttons {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+  }
+
+.button {
+    height: 32px;
+    background-color: white;
+    color: grey;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 1px 2px rgb(0 0 0 / 23%);
+    font-weight: 500;
+    font-size: 14px;
+    min-width: 120px;
+    margin: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.button:hover {
+    background-color: rgba(66, 133, 244, .04);
+    cursor: pointer;
+  }  

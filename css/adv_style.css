@@ -1,0 +1,156 @@
+body {
+    font-family: arial,sans-serif;
+    font-size: 81.25%;
+}
+
+.gb {
+    content: url(https://www.gstatic.com/images/branding/googlelogo/svg/googlelogo_clr_74x24px.svg);
+    display: inline-block;
+    height: 24px;
+    width: 74px;
+    margin-left: 10px;
+    }
+  
+.appbar {
+    color: #d93025;
+    font-size: 20px;
+    margin: 25px 35px;
+    }
+.gy3Eif {
+    border-bottom: 1px solid #ebebeb;
+    }
+.Mza7yc {
+    
+    max-width: 1140px;
+    min-width: 200px;
+    width: 96%;
+    margin: 40px 2% 0 45px;
+    }
+.otByu {
+    width: 100%;
+    clear: both;
+    }
+.yIQOUb {
+    clear: both;
+    }
+.I1Kbt {
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    font-size: 16px;
+    min-height: 42px;
+    font-weight: 500;
+    color: #333;
+    vertical-align: middle;
+    }
+.lOTAE {
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+    }
+.HoCfzc {
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+    }
+.orcpGe {
+    float: left;
+    width: 33%;
+    font-size: 13px;
+    font-weight: 700;
+    color: #777;
+    padding-left: 5px;
+    vertical-align: middle;
+    }
+.FAcADc {
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    width: 16%;
+    height: 42px;
+    color: #222;
+    font-size: 13px;
+    line-height: 16px;
+    vertical-align: middle;
+    }
+.jYcx0e {
+    float: left;
+    display: inline-block;
+    min-width: 167px;
+    min-height: 41px;
+    vertical-align: middle;
+    width: 50%;
+    }
+.PLLUQc {
+    padding-right: 16px;
+    }
+
+input[type="text"], span.PnexQd {
+    width: 100%;
+    text-align: left;
+    }
+.jfk-textinput {
+    border-radius: 1px;
+    border: 1px solid #d9d9d9;
+    border-top: 1px solid #c0c0c0;
+    font-size: 13px;
+    height: 25px;
+    padding: 1px 8px;
+    }
+    
+input.jfk-textinput:focus-visible {
+    border: 1px solid #276fe2;
+    }
+.cwqNnb {
+    float: left;
+    width: 32%;
+    min-width: 160px;
+    margin: 0 0 8px 1%;
+    color: #555;
+    font-size: 11px;
+    padding-left: 5px;
+    vertical-align: middle;
+    position: relative;
+    }
+.BFlQMb {
+    color: #666;
+    font-family: monospace;
+    font-size: 11px;
+    white-space: pre;
+    }
+.Qy8Xkb {
+    margin: 18px 0;
+    clear: both;
+    border-top: 1px solid #ebebeb;
+    }
+
+.dUBGpe {
+    float: right;
+    margin: 10px 0;
+    padding: 0 12px;
+    }
+.jfk-button-action {
+    box-shadow: none;
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+    border: 1px solid #3079ed;
+    color: #fff;
+    }
+.jfk-button {
+    border-radius: 2px;
+    cursor: default;
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+    outline: 0;
+    }
+.jfk-button-action:hover {
+    background-color: #4787ed;
+    background-image: -webkit-linear-gradient(top,#4787ed,#357ae9);
+    border: 1px solid #276fe2;
+    }
